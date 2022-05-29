@@ -2,6 +2,7 @@
 
 
 1. Leitura da Base de Dados
+   
    19 colunas, 147 linhas
 
 2. Interpretação dos Dados
@@ -14,6 +15,7 @@
   * Distribuição
   * Relação com os dados
   * ```Classificação ou Regressão?```
+    
     ➭ Classificação
   
 4. Análise e Limpeza dos Dados
