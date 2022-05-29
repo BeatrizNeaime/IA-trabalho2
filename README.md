@@ -12,7 +12,7 @@
 
   * Distribuição
   * Relação com os dados
-  * ```Classificação ou Regreção?```
+  * ```Classificação ou Regressão?```
   
 4. Análise e Limpeza dos Dados
   * Algum problema aparente?
